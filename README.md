@@ -5,4 +5,4 @@ this is for
 const hello = 'hello wolrd'
 ---
 
-<pre>Author: fullstop</pre>
+<pre>Author: fullstop(jerry)</pre>
